@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Couchrail</string>
+    <string name="title_activity_home">Couchrail</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Sign in Screen-->
+    <string name="login_signin">SIGN IN</string>
+    <string name="login_username">USERNAME</string>
+    <string name="login_PASSWORD">PASSWORD</string>
+    <string name="login_dontAccount">DON\'T HAVE A ACCOUNT \?</string>
+    <string name="login_forgotPass">FORGOT PASSWORD \?</string>
+    <string name="login_signUp">SIGN UP</string>
+    <string name="login_resetPass">RESET PASSWORD</string>
+
+    <!-- Sign up Screen -->
+    <string name="signup_name">NAME SURNAME</string>
+    <string name="signup_username">USERNAME</string>
+    <string name="signup_email">EMAIL</string>
+    <string name="signup_sex">SEX</string>
+    <string name="signup_password">PASSWORD</string>
+    <string name="signup_alreadyAcc">ALREADY HAVE AN ACCOUNT\?</string>
+
+
 </resources>
